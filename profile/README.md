@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/NextFightNetwork/Wiki/wiki">Wiki</a> |
-  <a href="https://discord.gg/ZXvGT8uMD3">Discord</a> |
+  <a href="https://github.com/NextFightNetwork/Wiki/wiki">Wiki</a> •
+  <a href="https://discord.gg/ZXvGT8uMD3">Discord</a> •
   <a href="https://tiktok.com/@nextfight.net">TikTok</a>
 </div>  
 <br>

@@ -5,4 +5,4 @@
 </div>  
 <br>
 
-![NextFight Banner](https://github.com/NextFightNetwork/.github/assets/114857048/b83342e0-107e-4c43-81d3-4648ef48bd8d)
+![NextFight Banner](https://github.com/NextFightNetwork/.github/assets/114857048/fb0018b0-855a-484b-b5db-370df86ab8da)

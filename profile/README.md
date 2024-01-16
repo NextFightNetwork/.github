@@ -8,7 +8,7 @@
 
 # Trailer
 <div align="center">
-  <a href="https://github.com/NextFightNetwork/.github/assets/114857048/1d6bc5fb-4c24-43e3-8bdb-88202acb1892">
-    <img src="https://github.com/NextFightNetwork/.github/assets/114857048/ac52ca1c-8c68-488d-b941-931b6f5eea15">
+  <a href="https://www.youtube.com/watch?v=z8E2sYGbRKU">
+    <img src="https://github.com/NextFightNetwork/.github/assets/114857048/1d6bc5fb-4c24-43e3-8bdb-88202acb1892">
   </a>
 </div>

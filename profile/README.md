@@ -5,3 +5,10 @@
   <a href="https://tiktok.com/@nextfight.net">TikTok</a>
 </div>  
 <br>
+
+# Trailer
+<div align="center">
+  <a href="https://github.com/NextFightNetwork/.github/assets/114857048/ac52ca1c-8c68-488d-b941-931b6f5eea15">
+    <img src="https://github.com/NextFightNetwork/.github/assets/114857048/ac52ca1c-8c68-488d-b941-931b6f5eea15">
+  </a>
+</div>

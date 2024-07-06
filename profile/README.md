@@ -16,5 +16,5 @@ Connect to our server using the latest Minecraft Java edition at:
 nextfight.net
 ```
 Interested in joining our team or our creator/partner program?  
-Send an email to `apply@nextfight.net` or join our [Discord server](https://discord.gg/nextfight) and apply in the apply channel.
+Send an email to `apply@nextfight.net` or join our [Discord server](https://discord.gg/nextfight) and create an application through the `apply` channel.
 
